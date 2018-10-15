@@ -1,4 +1,4 @@
-# A Manned Mission to Mars - Simulations of Transfer Trajectoriesto the Red Planet
+# A Manned Mission to Mars - Simulations of Transfer Trajectories to the Red Planet
 
 ## Abstract
 Presented is a study of orbital transfers a manned mission to Mars might take
